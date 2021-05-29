@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555D
+D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
+K
+F Http:  //www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP CM6631A
+D USB 2.0 High-Speed True HD Audio Processor
+K
+F https://www.cmedia.com.tw/support/download_center/19
+$ENDCMP
+#
+$CMP PCM1792ADB
+D PCM1792ADB, Audio DAC Dual 24 bit-, 192ksps 6%FSR Serial (I2C/SPI), 28-Pin SSOP
+K
+F http://www.ti.com/lit/ds/symlink/pcm1792a.pdf
+$ENDCMP
+#
+$CMP ADUM1400BRW
+D Digital Isolators Digital Quad-CH
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM1400_1401_1402.pdf
+$ENDCMP
+#
+$CMP PCM1808QPWRQ1
+D Automotive 99dB SNR Stereo ADC With Single-Ended Inputs
+K
+F http://www.ti.com/lit/ds/symlink/pcm1808-q1.pdf
+$ENDCMP
+#
+#End Doc Library

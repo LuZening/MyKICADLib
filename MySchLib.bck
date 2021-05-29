@@ -1,0 +1,91 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 8050
+D 0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92
+K S8050 NPN Low Voltage High Current Transistor
+F http://www.unisonic.com.tw/datasheet/S8050.pdf
+$ENDCMP
+#
+$CMP 8550
+D 0.7A Ic, 20V Vce, Low Voltage High Current PNP Transistor, TO-92
+K S8550 PNP Low Voltage High Current Transistor
+F http://www.unisonic.com.tw/datasheet/S8550.pdf
+$ENDCMP
+#
+$CMP AudioJack_PJ325
+D Audio Jack, Dual, 2 Poles (Mono / TS), Grounded Sleeve, Switched Pole (Normalling)
+K audio jack dual receptacle mono headphones phone TS connector
+F ~
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_PIN
+D PIN diode
+K PIN diode
+F ~
+$ENDCMP
+#
+$CMP D_Schottky_Small
+D Schottky diode, small symbol
+K diode Schottky
+F ~
+$ENDCMP
+#
+$CMP D_Zener
+D Zener diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP FINDER-40.61
+D FINDER 40.51, Single Pole Relay, 5mm Pitch, 10A
+K Single Pole Relay
+F http://gfinder.findernet.com/assets/Series/353/S40EN.pdf
+$ENDCMP
+#
+$CMP G2R-1-E
+D Omron G2 relay
+K Miniature Single Pole Relay
+F https://www.omron.com/ecb/products/pdf/en-g5q.pdf
+$ENDCMP
+#
+$CMP G2RL-1-E
+D Omron G2 relay
+K Miniature Single Pole Relay
+F https://www.omron.com/ecb/products/pdf/en-g5q.pdf
+$ENDCMP
+#
+$CMP LED
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP SRBV170501
+D 2 rotary switch with 6 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Rotary1x6
+D 2 rotary switch with 6 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SY8120
+D Silergy 18V 2A 500kHz DC-DC Step-down
+$ENDCMP
+#
+$CMP TL431
+D Shunt Regulator, SOT-23
+K diode device shunt regulator
+F http://www.ti.com/lit/ds/symlink/tl431.pdf
+$ENDCMP
+#
+#End Doc Library

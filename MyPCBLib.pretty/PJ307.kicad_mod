@@ -1,0 +1,8 @@
+(module PJ307 (layer F.Cu) (tedit 5F99A752)
+  (fp_text reference J** (at 0 -3.75) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PJ307 (at 0 -4.75) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
